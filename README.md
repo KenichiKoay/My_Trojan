@@ -1,2 +1,2 @@
 # My_Trojan
-This is my trojan I made for early access only
+Sorry no longer supporting malwares
